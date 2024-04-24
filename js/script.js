@@ -26,5 +26,5 @@ function checkNumber() {
     // output
     document.getElementById("answer").innerHTML =
       "You have gussed the wrong number!"
-  }
+      "The coorect number is" + randomNumber
 }
